@@ -37,8 +37,9 @@ I'm Jungseok, a backend developer.
 ## 🌱 I’m currently learning
 
 <p>
-    <img src="https://img.shields.io/badge/Java-007396?&amp;style=for-the-badge&amp;logo=OpenJDK&amp;logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Springboot%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=Springboot&amp;logoColor=white" alt="Springboot">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
 ## 📫 How to reach me
