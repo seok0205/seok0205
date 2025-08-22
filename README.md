@@ -1,44 +1,49 @@
-## Hi there 👋
+## Be a good developer 👋
 
 I'm Jungseok, a backend developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok0205)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stacks
+## Tech Stacks
 
-<p>
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</p>
-<p>
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&amp;style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="Sqlite">
-</p>
-<p>
-    <img src="https://img.shields.io/badge/django%20-%20092E20.svg?&amp;style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy">
-    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&amp;style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=scikit%20learn&amp;logoColor=white" alt="SkLearn">
-    <img src="https://img.shields.io/badge/Pytorch%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=Pytorch&amp;logoColor=white" alt="SkLearn">
-</p>
-<p>
-    <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="BootStrap">
-</p>
-<p>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&amp;style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-</p>
+### Programming Languages
 
-## 🌱 I’m currently learning
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-<p>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</p>
+### Frameworks & Libraries
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+
+### Databases & Caches
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Gerrit](https://img.shields.io/badge/Gerrit-FF5500?style=for-the-badge)
+
+## I'm currently learning
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
 ## 📫 How to reach me
 
