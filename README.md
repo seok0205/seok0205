@@ -18,21 +18,6 @@
 📚 <a href="https://github.com/seok0205/OMR" target="_blank">**OMR**(오늘 뭐 읽지?)</a> : 알라딘 API 활용 도서 및 도서 대여 여부 확인 서비스 <br>
 
 
-## 🎓 Education
-<div align="center">
-<table>
-  <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
-  <tr> <td>삼성 청년 SW 아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01 ~ 2026.01</td> <td align="center">삼성 SW 역량 테스트 <strong>A 등급</strong> 취득</td> </tr>
-  <tr> <td>USG 공유대학 <a href="https://www.usg.ac.kr/sub/sub2_4.php" target="_blank">스마트제조ICT</a>  융합전공</td> <td>2022.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr>
-  <!-- <tr> <td>영산대학교 <a href="https://drone.ysu.ac.kr/drone/CMS/Contents/Contents.do?mCode=MN019" target="_blank">드론공간정보공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr> -->
-</table>
-</div>
-
-
-## 🏆 Awards
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/seok0205/tako" target="_blank">Blockchain 특화 프로젝트</a> **우수상** (2025.09.29) <br>
-
-
 ## 🛠 Skills
 <div align="center">
 <details>
@@ -53,3 +38,29 @@
 | **<div align="center">🤝 Collaboration</div>** | <div align="center">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge\&logo=notion\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC.svg?&style=for-the-badge&logo=mattermost&logoColor=white) </div> |
 | **<div align="center">🔗 Blockchain Dev / Test</div>** | <div align="center">![Hardhat](https://img.shields.io/badge/Hardhat-181A1F.svg?&style=for-the-badge&logo=ethereum&logoColor=white) </div> |
 </div> </details> </div> <br>
+
+
+## 🎓 Education
+<div align="center">
+<table>
+  <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
+  <tr> <td>삼성 청년 SW 아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01 ~ 2026.01</td> <td align="center">삼성 SW 역량 테스트 <strong>A 등급</strong> 취득</td> </tr>
+  <tr> <td>USG 공유대학 <a href="https://www.usg.ac.kr/sub/sub2_4.php" target="_blank">스마트제조ICT</a>  융합전공</td> <td>2022.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr>
+  <!-- <tr> <td>영산대학교 <a href="https://drone.ysu.ac.kr/drone/CMS/Contents/Contents.do?mCode=MN019" target="_blank">드론공간정보공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr> -->
+</table>
+</div>
+
+
+## 🏆 Awards
+🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/seok0205/tako" target="_blank">Blockchain 특화 프로젝트</a> **우수상** (2025.09.29) <br>
+
+
+## 💳 Licenses
+<div align="center">
+<table>
+  <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일시</th> </tr>
+  <tr> <td align="center"><strong>정보처리기사</strong></td> <td align="center">한국산업인력공단</td> <td>2024.06</td> </tr>
+  <tr> <td align="center"><strong>Microsoft Azure AI Fundamentals (AI-900)</strong></td> <td align="center">Microsoft</td> <td>2024.01</td> </tr>
+  <tr> <td align="center"><strong>초경량비행장치조종사</strong></td> <td align="center">한국교통안전공단</td> <td>2022.03</td> </tr>
+</table>
+</div>
