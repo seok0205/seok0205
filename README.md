@@ -24,6 +24,6 @@
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
   <tr> <td>삼성 청년 SW 아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01 ~ 2026.01</td> <td align="center">삼성 SW 역량 테스트 <strong>A 등급</strong> 취득</td> </tr>
   <tr> <td>USG 공유대학 <a href="https://www.usg.ac.kr/sub/sub2_4.php" target="_blank">스마트제조ICT</a>  융합전공</td> <td>2022.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr>
-  <tr> <td>영산대학교 <a href="https://drone.ysu.ac.kr/drone/CMS/Contents/Contents.do?mCode=MN019" target="_blank">드론공간정보공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr>
+  <!-- <tr> <td>영산대학교 <a href="https://drone.ysu.ac.kr/drone/CMS/Contents/Contents.do?mCode=MN019" target="_blank">드론공간정보공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr> -->
 </table>
 </div>
