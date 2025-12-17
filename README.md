@@ -66,5 +66,9 @@
 </div>
 
 ## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:redvelvet741@gmail.com)](mailto:redvelvet741@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:9526yu@naver.com)](mailto:9526yu@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](
+https://mail.google.com/mail/?view=cm&fs=1&to=redvelvet741@gmail.com
+)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](
+https://mail.naver.com/write/popup?to=9526yu@naver.com
+)
