@@ -9,11 +9,13 @@
 
 
 ## ⚙ Projects
-📚 <a href="https://github.com/seok0205/SecondBrain" target="_blank">**Second Brain**</a> : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스 <br>
+🧠 <a href="https://github.com/seok0205/SecondBrain" target="_blank">**Second Brain**</a> : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스 <br>
 
 🃏 <a href="https://github.com/seok0205/tako" target="_blank">**TAKO**</a> : 블록체인 기반 TCG 카드 P2P 경매 플랫폼 <br>
 
 💊 <a href="https://github.com/seok0205/MaumCanvas" target="_blank">**마음 캔버스**</a> : AI 기반 청소년 심리 상담 서비스 <br>
+
+📚 <a href="https://github.com/seok0205/MaumCanvas" target="_blank">**OMR**(오늘 뭐 읽지?)</a> : 알라딘 API 활용 도서 및 도서 대여 여부 확인 서비스 <br>
 
 
 ## 🎓 Education
