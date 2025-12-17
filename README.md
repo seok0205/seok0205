@@ -64,3 +64,7 @@
   <tr> <td align="center"><strong>초경량비행장치조종사</strong></td> <td align="center">한국교통안전공단</td> <td>2022.03</td> </tr>
 </table>
 </div>
+
+## :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:redvelvet741@gmail.com)](mailto:redvelvet741@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:9526yu@naver.com)](mailto:9526yu@naver.com)
