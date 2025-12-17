@@ -27,3 +27,7 @@
   <!-- <tr> <td>영산대학교 <a href="https://drone.ysu.ac.kr/drone/CMS/Contents/Contents.do?mCode=MN019" target="_blank">드론공간정보공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td align="center">평점 평균: <strong>3.70</strong> / 4.5</td> </tr> -->
 </table>
 </div>
+
+
+## 🏆 Awards
+🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/seok0205/tako" target="_blank">Blockchain 특화 프로젝트</a> **우수상** (2025.09.29) <br>
