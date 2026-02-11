@@ -4,8 +4,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9526yu)](https://solved.ac/9526yu)
 
-![Programmers Stats](https://github-readme-stats.vercel.app/api?username=redvelvet741@gmail.com&show_icons=true)
-
 </div>
 
 
