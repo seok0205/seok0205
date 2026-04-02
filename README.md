@@ -1,5 +1,17 @@
 ## Jungseok Yu, Be a good developer 👋
 
+### ☎ Contacts
+
+- **Email**  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](
+https://mail.google.com/mail/?view=cm&fs=1&to=redvelvet741@gmail.com
+)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](
+https://mail.naver.com/write/popup?to=9526yu@naver.com
+)  
+
+- [**Seok's Portfolio**](https://www.notion.so/Jungseok-s-Portfolio-2b9d2c024bf8808a93a8d9ee1c51c061?source=copy_link)
+
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9526yu)](https://solved.ac/9526yu)
@@ -63,11 +75,3 @@
   <tr> <td align="center"><strong>초경량비행장치조종사</strong></td> <td align="center">한국교통안전공단</td> <td>2022.03</td> </tr>
 </table>
 </div>
-
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](
-https://mail.google.com/mail/?view=cm&fs=1&to=redvelvet741@gmail.com
-)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](
-https://mail.naver.com/write/popup?to=9526yu@naver.com
-)
