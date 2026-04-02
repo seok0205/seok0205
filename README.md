@@ -10,8 +10,6 @@ https://mail.google.com/mail/?view=cm&fs=1&to=redvelvet741@gmail.com
 https://mail.naver.com/write/popup?to=9526yu@naver.com
 )  
 
-- [**Seok's Portfolio**](https://www.notion.so/Jungseok-s-Portfolio-2b9d2c024bf8808a93a8d9ee1c51c061?source=copy_link)
-
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9526yu)](https://solved.ac/9526yu)
@@ -19,7 +17,7 @@ https://mail.naver.com/write/popup?to=9526yu@naver.com
 </div>
 
 
-## ⚙ Projects
+## ⚙ Projects | [**Seok's Portfolio**](https://www.notion.so/Jungseok-s-Portfolio-2b9d2c024bf8808a93a8d9ee1c51c061?source=copy_link)
 🧠 <a href="https://github.com/seok0205/SecondBrain" target="_blank">**Second Brain**</a> : LLM과 지식 그래프를 활용한 개인지식관리(PKM) 서비스 <br>
 
 🃏 <a href="https://github.com/seok0205/tako" target="_blank">**TAKO**</a> : 블록체인 기반 TCG 카드 P2P 경매 플랫폼 <br>
